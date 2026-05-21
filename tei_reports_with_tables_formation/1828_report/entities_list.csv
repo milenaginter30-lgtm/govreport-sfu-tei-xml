@@ -1,0 +1,140 @@
+﻿Тег;Текст сущности;REF (ID);Частота;Type (заполнить);Subtype (заполнить)
+orgName;Енисейское Общее Губернское Управление;#org_enisei_general_governance;2;Гос. органы;управление
+orgName;Департаменту полиции;#org_police_department;2;Гос. органы;департамент
+orgName;Губернского суда;#org_gub_sud;2;Гос. органы;суд
+orgName;Губернского правления;#org_gubernskoe_pravlenie;2;Гос. органы;правление
+orgName;МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ;#org_mvd;2;Гос. органы;министерство
+orgName;Частного губернского управления;#org_chastnoe_upr;1;Гос. органы;управление
+orgName;Приказу общественного призрения;#org_prikaz_public_welfare;1;Общ. орг-ии;приказ
+orgName;Врачебной управы;#org_medical_board;1;Гос. органы;управа
+
+orgName;Губернским советом;#org_gub_sovet;1;Гос. органы;совет
+orgName;Красноярского окружного суда;#org_okr_sud_kras;1;Гос. органы;суд
+orgName;Окружному суду;#org_okr_sud;1;Гос. органы;суд
+orgName;Комиссию для разбора сих дел;#org_komissiya_razbor;1;Гос. органы;комиссия
+
+orgName;Земскому суду;#org_zem_sud;1;Гос. органы;суд
+orgName;Городовой управы;#org_gorod_uprava;1;Гос. органы;управа
+orgName;Главным управлением Восточной Сибири;#org_glav_upr_vs;1;Гос. органы;управление
+orgName;Приказа общественного призрения;#org_prikaz_public_welfare;1;Общ. орг-ии;приказ
+orgName;Врачебная управа;#org_medical_board;1;Гос. органы;управа
+orgName;Каменской винокуренный завод;#org_kam_zavod;1;Пром-ть;завод
+orgName;Казенной палате;#org_kaz_palata;1;Гос. органы;палата
+orgName;Губернскому правлению;#org_gubernskoe_pravlenie;1;Гос. органы;правление
+
+orgName;ДЕПАРТАМЕНТ ПОЛИЦИИ ИСПОЛНИТЕЛЬНОЙ;#org_dept_pol_exec;1;Гос. органы;департамент
+orgName;ГЛАВНОЕ УПРАВЛЕНИЕ ВОСТОЧНОЙ СИБИРИ;#org_glav_upr_vs;1;Гос. органы;управление
+orgName;Совете Главного управления Восточной Сибири;#org_glav_upr_vs;1;Гос. органы;совет
+
+orgName;Енисейское Общее Губернское Управление;;1;;
+orgName;Департамент полиции;;1;;
+orgName;Частного губернского управления;;1;;
+orgName;Приказ общественного призрения;;1;;
+orgName;Врачебная управа;;1;;
+orgName;Губернским советом;;1;;
+orgName;Красноярского окружного суда;;1;;
+orgName;Губернского суда;;1;;
+orgName;Окружному суду;;1;;
+orgName;Комиссию для разбора сих дел;;1;;
+orgName;Земскому суду;;1;;
+orgName;Городовой управы;;1;;
+orgName;Главное управление Восточной Сибири;;1;;
+orgName;Каменской винокуренный завод;;1;;
+orgName;Казенной палате;;1;;
+orgName;Губернское правление;;1;;
+orgName;Министерство внутренних дел;;1;;
+orgName;Департамент полиции исполнительной;;1;;
+
+persName;Степанов;#person_степанов;2;Власть;губернатор
+persName;Его Императорскому Величеству;#person_majesty;2;Власть;монарх
+persName;Вашему Императорскому Величеству;#person_majesty;1;Власть;монарх
+persName;Садыкова;#person_садыкова;1;Медицина;врач
+persName;Тарасова;#person_tarasov;1;Служащие;начальник округа
+
+persName;Акишева;#person_акишева;1;Медицина;врач
+persName;Сердоликов;#person_сердоликов;1;Медицина;штаб-лекарь
+persName;Галкина;#person_галкина;1;Власть;председатель управления
+persName;Кузнецовых;#person_kuznetsovy;1;Сословия;купец
+persName;Родичеву;#person_rodichev;1;Власть;председатель суда
+
+persName;Соболеву;#person_sobolev;1;Служащие;советник
+persName;Кузнецов;#person_kuznetsov_off;1;Служащие;начальник отделения
+persName;Закревски;#person_zakrevski;1;Власть;министр
+persName;Покровский;#person_pokrovskiy;1;Служащие;директор
+persName;Кова***;#person_kova;1;Служащие;начальник стола
+
+persName;Александр Лавинский;#person_александр_лавинский;1;Власть;генерал-губернатор
+persName;Дмитрий Каабри***;#person_kaabri;1;Служащие;управляющий
+persName;А. Барабанов;#person_barabanov;1;Служащие;начальник отделения
+persName;Н. Власов;#person_vlasov;1;Служащие;начальник стола
+
+persName;Его Императорскому Величеству;;1;;
+persName;Степанов;;1;;
+persName;Садыкова;;1;;
+persName;Тарасов;;1;;
+persName;Акишева;;1;;
+persName;Сердоликов;;1;;
+persName;Галкина;;1;;
+persName;Кузнецовых;;1;;
+persName;Родичеву;;1;;
+persName;Соболеву;;1;;
+persName;Кузнецов;;1;;
+persName;Закревски;;1;;
+persName;Покровский;;1;;
+persName;Кова***;;1;;
+persName;Александр Лавинский;;1;;
+persName;Дмитрий Каабри***;;1;;
+persName;А. Барабанов;;1;;
+persName;Н. Власов;;1;;
+
+placeName;Енисейского;#place_enisei_okrug;5;Адм. единицы;округ
+placeName;Восточной Сибири;#place_eastern_siberia;5;Адм. единицы;генерал-губернаторство
+placeName;Енисейской губернии;#place_enisei_province;3;Адм. единицы;губерния
+
+placeName;г. Красноярск;#place_krasnoyarsk;3;Насел. пункты;город
+placeName;Енисейский;#place_enisei_okrug;3;Адм. единицы;округ
+placeName;Енисейским;#place_enisei_okrug;3;Адм. единицы;округ
+placeName;Красноярска;#place_krasnoyarsk;3;Насел. пункты;город
+placeName;Енисейскому;#place_enisei_okrug;2;Адм. единицы;округ
+
+placeName;Енисейска;#place_enisei_okrug;2;Насел. пункты;город
+placeName;Красноярск;#place_krasnoyarsk;2;Насел. пункты;город
+placeName;Красноярского;#place_krasnoyarsk;2;Адм. единицы;округ
+placeName;Красноярском;#place_krasnoyarsk;2;Адм. единицы;округ
+placeName;Енисейский округ;#place_enisei_okrug;1;Адм. единицы;округ
+placeName;Енисейского округа;#place_enisei_okrug;1;Адм. единицы;округ
+placeName;Красноярский;#place_krasnoyarsk;1;Адм. единицы;округ
+placeName;Канскому;#place_kansk;1;Адм. единицы;округ
+placeName;Ачинскому;#place_achinsk;1;Адм. единицы;округ
+
+placeName;Минусинскому;#place_minusinsk;1;Адм. единицы;округ
+placeName;Красноярским;#place_krasnoyarsk;1;Адм. единицы;округ
+placeName;г. Енисейске;#place_eniseysk;1;Насел. пункты;город
+placeName;Енисейском округе;#place_enisei_okrug;1;Адм. единицы;округ
+placeName;Туруханске;#place_turukhansk;1;Насел. пункты;город
+placeName;Туруханского края;#place_turukhansk_region;1;Адм. единицы;край
+placeName;Туруханскому краю;#place_turukhansk_region;1;Адм. единицы;край
+placeName;Иркутской;#place_irkutsk_province;1;Адм. единицы;губерния
+placeName;Енисейским округом;#place_enisei_okrug;1;Адм. единицы;округ
+placeName;Туруханска;#place_turukhansk;1;Насел. пункты;город
+placeName;г. Красноярска;#place_krasnoyarsk;1;Насел. пункты;город
+
+placeName;Сибири;#place_siberia;1;Адм. единицы;регион
+placeName;Красноярского округа;#place_krasnoyarsk_okrug;1;Адм. единицы;округ
+placeName;Иркутскому;#place_irkutsk_province;1;Адм. единицы;губерния
+placeName;Красноярске;#place_krasnoyarsk;1;Насел. пункты;город
+placeName;Иркутск;#place_irkutsk_province;1;Насел. пункты;город
+
+placeName;Красноярск;;1;;
+placeName;Енисейск;;1;;
+placeName;Канск;;1;;
+placeName;Ачинск;;1;;
+placeName;Минусинск;;1;;
+placeName;Туруханск;;1;;
+placeName;Енисейская губерния;;1;;
+placeName;Иркутская губерния;;1;;
+placeName;Восточная Сибирь;;1;;
+placeName;Туруханский край;;1;;
+placeName;Енисейский округ;;1;;
+placeName;Красноярский округ;;1;;
+placeName;Сибири;;1;;
