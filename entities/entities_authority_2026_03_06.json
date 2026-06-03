@@ -1,0 +1,2741 @@
+{
+  "persons": [
+    {
+      "id": "person_иван_гаврилов",
+      "name": "Иван Гаврилов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_николай_новиков",
+      "name": "Николай Новиков",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_в_к_падалка",
+      "name": "В. К. Падалка",
+      "mentions_in_report": 2,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_платон_бронников",
+      "name": "Платон Бронников",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_лямина",
+      "name": "Лямина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_дарья_высовичева",
+      "name": "Дарья Высовичева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_краснопольский",
+      "name": "Краснопольский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_карлова",
+      "name": "Карлова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_мичурине",
+      "name": "Мичурине",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_арефьева",
+      "name": "Арефьева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бушуеве",
+      "name": "Бушуеве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_подышагиных",
+      "name": "Подышагиных",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_мавриной",
+      "name": "Мавриной",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_катаева",
+      "name": "Катаева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_корелина",
+      "name": "Корелина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_донникова",
+      "name": "Донникова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_гофману",
+      "name": "Гофману",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_егорове",
+      "name": "Егорове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_кудринове",
+      "name": "Кудринове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ивана_бурмакина",
+      "name": "Ивана Бурмакина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_моисей_левинский",
+      "name": "Моисей Левинский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_соломатове",
+      "name": "Соломатове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бугаеве",
+      "name": "Бугаеве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_таратанове",
+      "name": "Таратанове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_тарасову",
+      "name": "Тарасову",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бурмакина",
+      "name": "Бурмакина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_толстой",
+      "name": "Толстой",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_семен_максимовский",
+      "name": "Семен Максимовский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_игнат",
+      "name": "Игнат",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сырипольщикова",
+      "name": "Сырипольщикова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_соломатова",
+      "name": "Соломатова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сиротинине",
+      "name": "Сиротинине",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ситникове",
+      "name": "Ситникове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_хращевский",
+      "name": "Хращевский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_аграфена_ваганова",
+      "name": "Аграфена Ваганова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_фарафонт",
+      "name": "Фарафонт",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_безрукова",
+      "name": "Безрукова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_данниковой",
+      "name": "Данниковой",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_потылицыне",
+      "name": "Потылицыне",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_носове",
+      "name": "Носове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_федор_начапинский",
+      "name": "Федор Начапинский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_веселкове",
+      "name": "Веселкове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_чигинцове",
+      "name": "Чигинцове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_иванове",
+      "name": "Иванове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ивана_скрыпольщикова",
+      "name": "Ивана Скрыпольщикова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сапожникова",
+      "name": "Сапожникова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_феоктистовым",
+      "name": "Феоктистовым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_скрыпольщикова",
+      "name": "Скрыпольщикова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_иванова",
+      "name": "Иванова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_токаревым",
+      "name": "Токаревым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_тарасовым",
+      "name": "Тарасовым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_денисова",
+      "name": "Денисова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_фалееве",
+      "name": "Фалееве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сенцове",
+      "name": "Сенцове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_алексееве",
+      "name": "Алексееве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_желуданове",
+      "name": "Желуданове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_беликове",
+      "name": "Беликове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_добранине",
+      "name": "Добранине",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бабиеве",
+      "name": "Бабиеве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_соколова",
+      "name": "Соколова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_фалеева",
+      "name": "Фалеева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_алексееву",
+      "name": "Алексееву",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_туголукова",
+      "name": "Туголукова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сурикову",
+      "name": "Сурикову",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_грудининым",
+      "name": "Грудининым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_гробовский",
+      "name": "Гробовский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_михаил_степанов",
+      "name": "Михаил Степанов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_давыдовым",
+      "name": "Давыдовым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_кузубове",
+      "name": "Кузубове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_монахове",
+      "name": "Монахове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_волянский",
+      "name": "Волянский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_лукьянову",
+      "name": "Лукьянову",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_лисовский",
+      "name": "Лисовский",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_дмитрий_кащенка",
+      "name": "Дмитрий Кащенка",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_марков",
+      "name": "Марков",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_абакумове",
+      "name": "Абакумове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_зыкове",
+      "name": "Зыкове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_вилговича",
+      "name": "Вилговича",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_василков",
+      "name": "Василков",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_пестерева",
+      "name": "Пестерева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_свешникове",
+      "name": "Свешникове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_кочкине",
+      "name": "Кочкине",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_масленикове",
+      "name": "Масленикове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_налобардине",
+      "name": "Налобардине",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_арбекова",
+      "name": "Арбекова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_самковым",
+      "name": "Самковым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_абрамова",
+      "name": "Абрамова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_новиковым",
+      "name": "Новиковым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_михаила_шарыпова",
+      "name": "Михаила Шарыпова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_алеева",
+      "name": "Алеева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_елена_зырянова",
+      "name": "Елена Зырянова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_влахом",
+      "name": "Влахом",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_башурова",
+      "name": "Башурова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_полигузове",
+      "name": "Полигузове",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_добрашеве",
+      "name": "Добрашеве",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_шарыпова",
+      "name": "Шарыпова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_щепетильникова",
+      "name": "Щепетильникова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_лучникову",
+      "name": "Лучникову",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_добрашевым",
+      "name": "Добрашевым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_полигузовым",
+      "name": "Полигузовым",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_столыпина",
+      "name": "Столыпина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_барзецова",
+      "name": "Барзецова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_туговикова",
+      "name": "Туговикова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_романа_колмагорова",
+      "name": "Романа Колмагорова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_григорий_патюков",
+      "name": "Григорий Патюков",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_надежда_горецкая",
+      "name": "Надежда Горецкая",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_веселова",
+      "name": "Веселова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_петрова",
+      "name": "Петрова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_колмагорова",
+      "name": "Колмагорова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_дохтурова",
+      "name": "Дохтурова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_евсеева",
+      "name": "Евсеева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_кобалина",
+      "name": "Кобалина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_коростилева",
+      "name": "Коростилева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_григорьева",
+      "name": "Григорьева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_попова",
+      "name": "Попова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_сыренщикова",
+      "name": "Сыренщикова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бунова",
+      "name": "Бунова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_михайлова",
+      "name": "Михайлова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_шадрина",
+      "name": "Шадрина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ивана_ермолаева",
+      "name": "Ивана Ермолаева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_стручкова",
+      "name": "Стручкова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_машукова",
+      "name": "Машукова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_авдотья_кошкарова",
+      "name": "Авдотья Кошкарова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_павел_михайлов",
+      "name": "Павел Михайлов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_егор_козмин",
+      "name": "Егор Козмин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_гофмана",
+      "name": "Гофмана",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_бранштейна",
+      "name": "Бранштейна",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_никулина",
+      "name": "Никулина",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ермолаева",
+      "name": "Ермолаева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_анастасия_гаврилова",
+      "name": "Анастасия Гаврилова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_пелагея_васильева",
+      "name": "Пелагея Васильева",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_евдокимова",
+      "name": "Евдокимова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_кузнецова",
+      "name": "Кузнецова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_stepan_strelkov",
+      "name": "Степан Стрелков",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_fedor_kuzmin",
+      "name": "Федор Кузмин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_egor_cheremnykh",
+      "name": "Егор Черемных",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ivan_kozmynykh",
+      "name": "Иван Козминых",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ivan_starikov",
+      "name": "Иван Стариков",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ivan_startsov",
+      "name": "Иван Старцов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_ivan_shchepetunin",
+      "name": "Иван Щепетунин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_yakov_kochnev",
+      "name": "Яков Кочнев",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_alexandra_skornyakova",
+      "name": "Александра Скорнякова",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_anashkin",
+      "name": "Анашкин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_stepanov",
+      "name": "Степанов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_nepomnyashchaya",
+      "name": "Непомнящая",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_nepomnyashchiy",
+      "name": "Непомнящий",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_shmulliviovich",
+      "name": "Шмулливиович",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_nikifor_gogulin",
+      "name": "Никифор Гогулин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_mazalevskiy",
+      "name": "Мазалевский",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_pavel_vyshemirskiy",
+      "name": "Павел Вышемирский",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_khotimskiy",
+      "name": "Хотимский",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_alexander_vinokurov",
+      "name": "Александр Винокуров",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_alexander_kovrigin",
+      "name": "Александр Ковригин",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_nesterov",
+      "name": "Нестеров",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_petukhov",
+      "name": "Петухов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_danilov",
+      "name": "Данилов",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      }
+    },
+    {
+      "id": "person_majesty",
+      "name": "Императорскому Величеству",
+      "mentions_in_report": 6,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_степанов",
+      "name": "Степанов",
+      "mentions_in_report": 3,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_садыкова",
+      "name": "Садыкова",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_tarasov",
+      "name": "Тарасов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_акишева",
+      "name": "Акишева",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_enisei_gub",
+      "name": "Енисейского губернатора",
+      "mentions_in_report": 0,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "pers_enisei_gen_gub",
+      "name": "Енисейский генерал-губернатор",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "pers_enisei_gr_gub",
+      "name": "Енисейского гражданский губернатор",
+      "mentions_in_report": 7,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_сердоликов",
+      "name": "Сердоликов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_галкина",
+      "name": "Галкина",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_kuznetsovy",
+      "name": "Кузнецовых",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_rodichev",
+      "name": "Родичеву",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_sobolev",
+      "name": "Соболеву",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_kuznetsov_off",
+      "name": "Кузнецов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_zakrevski",
+      "name": "Закревски",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_pokrovskiy",
+      "name": "Покровский",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_kova",
+      "name": "Кова***",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_александр_лавинский",
+      "name": "Александр Лавинский",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_kaabri",
+      "name": "Дмитрий Каабри***",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_barabanov",
+      "name": "А. Барабанов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    },
+    {
+      "id": "person_vlasov",
+      "name": "Н. Власов",
+      "mentions_in_report": 1,
+      "source": {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Красноярск",
+      "ids": [
+        "place_krasnoyarsk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 14
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 16
+        }
+      ],
+      "count": 30
+    },
+    {
+      "name": "Енисейск",
+      "ids": [
+        "place_eniseysk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 3
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Канск",
+      "ids": [
+        "place_kansk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 6
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "Чулым",
+      "ids": [
+        "place_chylim"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Ачинск",
+      "ids": [
+        "place_achinsk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 4
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Минусинск",
+      "ids": [
+        "place_minusinsk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 7
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "Туруханск",
+      "ids": [
+        "place_turukhansk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 3
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Енисейская губерния",
+      "ids": [
+        "place_enisei_province"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 30
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 3
+        }
+      ],
+      "count": 33
+    },
+    {
+      "name": "Западной Сибири",
+      "ids": [
+        "west_syberia"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Томская губерния",
+      "ids": [
+        "place_tomsk_province"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Иркутская губерния",
+      "ids": [
+        "place_irkutsk_province"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Восточная Сибирь",
+      "ids": [
+        "place_eastern_siberia"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 10
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 5
+        }
+      ],
+      "count": 15
+    },
+    {
+      "name": "Туруханский край",
+      "ids": [
+        "place_turukhansk_region"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 3
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Енисейский округ",
+      "ids": [
+        "place_enisei_okrug"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 13
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 9
+        }
+      ],
+      "count": 22
+    },
+    {
+      "name": "Верхнеибатском",
+      "ids": [
+        "place_Верхнеибатском"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Канский округ",
+      "ids": [
+        "place_kansk_okrug"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Ачинский округ",
+      "ids": [
+        "place_achinsk_okrug"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Минусинский округ",
+      "ids": [
+        "place_minusinsk_okrug"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Соленоозерный форпост",
+      "ids": [
+        "place_solenoozerny_fortpost"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Енисей",
+      "ids": [
+        "place_enisey_river"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Туба",
+      "ids": [
+        "place_tuba_river"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Кеть",
+      "ids": [
+        "place_ket_river"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Каменский завод",
+      "ids": [
+        "place_kamensky_plant"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Таловая",
+      "ids": [
+        "place_talovaya"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Рыбинское",
+      "ids": [
+        "place_rybinskoe"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Тесинская волость",
+      "ids": [
+        "place_tesinskaya_volost"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Анцырская волость",
+      "ids": [
+        "place_antsyrskaya_volost"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Пермская губерния",
+      "ids": [
+        "place_perm_province"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Балахтинская волость",
+      "ids": [
+        "place_balakhtinskaya_volost"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Казачинская волость",
+      "ids": [
+        "place_kazachinskaya_volost"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Даурская",
+      "ids": [
+        "place_daurskaya"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Бийский",
+      "ids": [
+        "place_biysk"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Ярцовский",
+      "ids": [
+        "place_yartsovsky"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Верхнеибатский",
+      "ids": [
+        "place_verkhneibatsky"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Красноярский округ",
+      "ids": [
+        "place_krasnoyarsk_okrug"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Сибири",
+      "ids": [
+        "place_siberia"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Губернское правление",
+      "ids": [
+        "org_gubernskoe_pravlenie"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 8
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 3
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "Приказ общественного призрения",
+      "ids": [
+        "org_prikaz_public_welfare"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 3
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Врачебная управа",
+      "ids": [
+        "org_medical_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Рекрутское присутствие",
+      "ids": [
+        "org_recruit_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Красноярская губернская публичная библиотека",
+      "ids": [
+        "org_public_library"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Иркутская гимназия",
+      "ids": [
+        "org_irkutsk_gymnasium"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Енисейский конный казачий полк",
+      "ids": [
+        "org_cossack_regiment"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Красноярская Частная Управа",
+      "ids": [
+        "org_private_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Смирительный дом",
+      "ids": [
+        "org_house_of_correction"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Троицкий солеваренный завод",
+      "ids": [
+        "org_troitsk_salt_works"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Министерство внутренних дел",
+      "ids": [
+        "org_ministry_internal",
+        "org_mvd"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 2
+        },
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Римско-Католическое духовенство",
+      "ids": [
+        "org_catholic_clergy"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Комитет министров",
+      "ids": [
+        "org_committee_ministers"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Экспедиция о ссыльных",
+      "ids": [
+        "org_expedition_exiles"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Омский батальон",
+      "ids": [
+        "org_omsk_battalion"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Сибирский линейный батальон № 12",
+      "ids": [
+        "org_siberian_line_battalion_12"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Владимирский детский приют",
+      "ids": [
+        "org_vladimir_orphanage"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Назаровское волостное правление",
+      "ids": [
+        "org_nazarovo_volost_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Вятское Губернское правление",
+      "ids": [
+        "org_vyatka_gubernia_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Тобольское Губернское правление",
+      "ids": [
+        "org_tobolsk_gubernia_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Городская полиция",
+      "ids": [
+        "org_gorodskaya_policiya"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Земская полиция",
+      "ids": [
+        "org_zemskaya_policiya"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Пермское губернское правление",
+      "ids": [
+        "org_perm_gubernia_board"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Совет Главного управления Восточной Сибири",
+      "ids": [
+        "org_sovet_glavnogo_upravleniya_vostochnoy_sibiri"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Сиротский суд",
+      "ids": [
+        "org_sirotskiy_sud"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Словесный суд",
+      "ids": [
+        "org_slovesnyy_sud"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Окружной суд",
+      "ids": [
+        "org_okruzhnoy_sud"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Городовой суд",
+      "ids": [
+        "org_gorodovoy_sud"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Земский суд",
+      "ids": [
+        "org_zemskiy_sud"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Енисейская Казенная палата",
+      "ids": [
+        "org_enisey_kazennaya_palata"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Строительная комиссия",
+      "ids": [
+        "org_stroitelnaya_komissiya"
+      ],
+      "sources": [
+        {
+          "file": "1851_report.xml",
+          "mentions": 0
+        }
+      ],
+      "count": 0
+    },
+    {
+      "name": "Енисейское Общее Губернское Управление",
+      "ids": [
+        "org_enisei_general_governance"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Департамент полиции",
+      "ids": [
+        "org_police_department"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Частного губернского управления",
+      "ids": [
+        "org_chastnoe_upr"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Енисейский приказ общественного призрения",
+      "ids": [
+        "org_enisei_prikaz_public_welfare"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Губернским советом",
+      "ids": [
+        "org_gub_sovet"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Красноярского окружного суда",
+      "ids": [
+        "org_okr_sud_kras"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Губернского суда",
+      "ids": [
+        "org_gub_sud"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Окружному суду",
+      "ids": [
+        "org_okr_sud"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Комиссию для разбора сих дел",
+      "ids": [
+        "org_komissiya_razbor"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Земскому суду",
+      "ids": [
+        "org_zem_sud"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Городовой управы",
+      "ids": [
+        "org_gorod_uprava"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Главное управление Восточной Сибири",
+      "ids": [
+        "org_glav_upr_vs"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 3
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Каменской винокуренный завод",
+      "ids": [
+        "org_kam_zavod"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Казенной палате",
+      "ids": [
+        "org_kaz_palata"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Департамент полиции исполнительной",
+      "ids": [
+        "org_dept_pol_exec"
+      ],
+      "sources": [
+        {
+          "file": "1828_report.xml",
+          "mentions": 1
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "metadata": {
+    "unique_counts": {
+      "persons": 177,
+      "places": 36,
+      "organizations": 46
+    },
+    "source_files": [
+      {
+        "file": "1851_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1851_report\\1851_final_injected.xml"
+      },
+      {
+        "file": "1828_report.xml",
+        "path": "C:\\Users\\vladimir\\Desktop\\TEI\\govreport-sfu-tei-xml\\tei_reports_with_tables_formation\\1828_report\\1828_final_marked.xml"
+      }
+    ]
+  }
+}
