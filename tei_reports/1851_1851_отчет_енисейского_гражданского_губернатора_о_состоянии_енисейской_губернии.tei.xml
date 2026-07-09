@@ -1201,8 +1201,11 @@
       <person xml:id="person_краснопольский">
         <persName>Краснопольский</persName>
       </person>
-      <person xml:id="person_арефьева">
-        <persName>Арефьева</persName>
+      <person xml:id="person_бушуеве">
+        <persName>Бушуеве</persName>
+      </person>
+      <person xml:id="person_подышагиных">
+        <persName>Подышагиных</persName>
       </person>
       <person xml:id="person_карлова">
         <persName>Карлова</persName>
@@ -1210,17 +1213,14 @@
       <person xml:id="person_мичурине">
         <persName>Мичурине</persName>
       </person>
+      <person xml:id="person_арефьева">
+        <persName>Арефьева</persName>
+      </person>
       <person xml:id="person_кузмина">
         <persName>Кузмина</persName>
       </person>
       <person xml:id="person_мавриной">
         <persName>Мавриной</persName>
-      </person>
-      <person xml:id="person_подышагиных">
-        <persName>Подышагиных</persName>
-      </person>
-      <person xml:id="person_бушуеве">
-        <persName>Бушуеве</persName>
       </person>
       <person xml:id="person_катаева">
         <persName>Катаева</persName>
@@ -1237,11 +1237,11 @@
       <person xml:id="person_гофману">
         <persName>Гофману</persName>
       </person>
-      <person xml:id="person_егорове">
-        <persName>Егорове</persName>
-      </person>
       <person xml:id="person_кудринове">
         <persName>Кудринове</persName>
+      </person>
+      <person xml:id="person_егорове">
+        <persName>Егорове</persName>
       </person>
       <person xml:id="person_ивана_бурмакина">
         <persName>Ивана Бурмакина</persName>
@@ -1252,17 +1252,17 @@
       <person xml:id="person_тарасову">
         <persName>Тарасову</persName>
       </person>
-      <person xml:id="person_бугаеве">
-        <persName>Бугаеве</persName>
+      <person xml:id="person_бурмакина">
+        <persName>Бурмакина</persName>
       </person>
       <person xml:id="person_таратанове">
         <persName>Таратанове</persName>
       </person>
+      <person xml:id="person_бугаеве">
+        <persName>Бугаеве</persName>
+      </person>
       <person xml:id="person_соломатове">
         <persName>Соломатове</persName>
-      </person>
-      <person xml:id="person_бурмакина">
-        <persName>Бурмакина</persName>
       </person>
       <person xml:id="person_толстой">
         <persName>Толстой</persName>
@@ -1273,17 +1273,17 @@
       <person xml:id="person_игнат">
         <persName>Игнат</persName>
       </person>
-      <person xml:id="person_анашиных">
-        <persName>Анашиных</persName>
-      </person>
       <person xml:id="person_ситникове">
         <persName>Ситникове</persName>
       </person>
+      <person xml:id="person_анашиных">
+        <persName>Анашиных</persName>
+      </person>
+      <person xml:id="person_сырипольщикова">
+        <persName>Сырипольщикова</persName>
+      </person>
       <person xml:id="person_сиротинине">
         <persName>Сиротинине</persName>
-      </person>
-      <person xml:id="person_соломатова">
-        <persName>Соломатова</persName>
       </person>
       <person xml:id="person_анашкине">
         <persName>Анашкине</persName>
@@ -1291,8 +1291,8 @@
       <person xml:id="person_анашкина">
         <persName>Анашкина</persName>
       </person>
-      <person xml:id="person_сырипольщикова">
-        <persName>Сырипольщикова</persName>
+      <person xml:id="person_соломатова">
+        <persName>Соломатова</persName>
       </person>
       <person xml:id="person_хращевский">
         <persName>Хращевский</persName>
@@ -1303,17 +1303,17 @@
       <person xml:id="person_фарафонт">
         <persName>Фарафонт</persName>
       </person>
+      <person xml:id="person_потылицыне">
+        <persName>Потылицыне</persName>
+      </person>
+      <person xml:id="person_данниковой">
+        <persName>Данниковой</persName>
+      </person>
       <person xml:id="person_безрукова">
         <persName>Безрукова</persName>
       </person>
       <person xml:id="person_носове">
         <persName>Носове</persName>
-      </person>
-      <person xml:id="person_данниковой">
-        <persName>Данниковой</persName>
-      </person>
-      <person xml:id="person_потылицыне">
-        <persName>Потылицыне</persName>
       </person>
       <person xml:id="person_федор_начапинский">
         <persName>Федор Начапинский</persName>
@@ -1354,23 +1354,29 @@
       <person xml:id="person_соколова">
         <persName>Соколова</persName>
       </person>
-      <person xml:id="person_туголукова">
-        <persName>Туголукова</persName>
-      </person>
-      <person xml:id="person_беликове">
-        <persName>Беликове</persName>
-      </person>
-      <person xml:id="person_бабиеве">
-        <persName>Бабиеве</persName>
-      </person>
       <person xml:id="person_алексееве">
         <persName>Алексееве</persName>
       </person>
       <person xml:id="person_алексееву">
         <persName>Алексееву</persName>
       </person>
+      <person xml:id="person_бабиеве">
+        <persName>Бабиеве</persName>
+      </person>
+      <person xml:id="person_желуданове">
+        <persName>Желуданове</persName>
+      </person>
       <person xml:id="person_сенцове">
         <persName>Сенцове</persName>
+      </person>
+      <person xml:id="person_фалееве">
+        <persName>Фалееве</persName>
+      </person>
+      <person xml:id="person_фалеева">
+        <persName>Фалеева</persName>
+      </person>
+      <person xml:id="person_туголукова">
+        <persName>Туголукова</persName>
       </person>
       <person xml:id="person_сурикову">
         <persName>Сурикову</persName>
@@ -1378,14 +1384,8 @@
       <person xml:id="person_добранине">
         <persName>Добранине</persName>
       </person>
-      <person xml:id="person_желуданове">
-        <persName>Желуданове</persName>
-      </person>
-      <person xml:id="person_фалееве">
-        <persName>Фалееве</persName>
-      </person>
-      <person xml:id="person_фалеева">
-        <persName>Фалеева</persName>
+      <person xml:id="person_беликове">
+        <persName>Беликове</persName>
       </person>
       <person xml:id="person_грудининым">
         <persName>Грудининым</persName>
@@ -1405,6 +1405,9 @@
       <person xml:id="person_давыдовым">
         <persName>Давыдовым</persName>
       </person>
+      <person xml:id="person_лукьянову">
+        <persName>Лукьянову</persName>
+      </person>
       <person xml:id="person_кузубове">
         <persName>Кузубове</persName>
       </person>
@@ -1413,9 +1416,6 @@
       </person>
       <person xml:id="person_степанова">
         <persName>Степанова</persName>
-      </person>
-      <person xml:id="person_лукьянову">
-        <persName>Лукьянову</persName>
       </person>
       <person xml:id="person_вилговича">
         <persName>Вилговича</persName>
@@ -1438,14 +1438,14 @@
       <person xml:id="person_шмулливиовича">
         <persName>Шмулливиовича</persName>
       </person>
-      <person xml:id="person_зыкове">
-        <persName>Зыкове</persName>
-      </person>
       <person xml:id="person_гогулина">
         <persName>Гогулина</persName>
       </person>
       <person xml:id="person_абакумове">
         <persName>Абакумове</persName>
+      </person>
+      <person xml:id="person_зыкове">
+        <persName>Зыкове</persName>
       </person>
       <person xml:id="person_пестерева">
         <persName>Пестерева</persName>
@@ -1468,20 +1468,20 @@
       <person xml:id="person_степаном_стрелковым">
         <persName>Степаном Стрелковым</persName>
       </person>
-      <person xml:id="person_кочкине">
-        <persName>Кочкине</persName>
-      </person>
-      <person xml:id="person_налобардине">
-        <persName>Налобардине</persName>
-      </person>
-      <person xml:id="person_масленикове">
-        <persName>Масленикове</persName>
+      <person xml:id="person_свешникове">
+        <persName>Свешникове</persName>
       </person>
       <person xml:id="person_степанове">
         <persName>Степанове</persName>
       </person>
-      <person xml:id="person_свешникове">
-        <persName>Свешникове</persName>
+      <person xml:id="person_налобардине">
+        <persName>Налобардине</persName>
+      </person>
+      <person xml:id="person_кочкине">
+        <persName>Кочкине</persName>
+      </person>
+      <person xml:id="person_масленикове">
+        <persName>Масленикове</persName>
       </person>
       <person xml:id="person_елена_зырянова">
         <persName>Елена Зырянова</persName>
@@ -1498,14 +1498,11 @@
       <person xml:id="person_полигузовым">
         <persName>Полигузовым</persName>
       </person>
-      <person xml:id="person_шарыпова">
-        <persName>Шарыпова</persName>
-      </person>
       <person xml:id="person_столыпина">
         <persName>Столыпина</persName>
       </person>
-      <person xml:id="person_алеева">
-        <persName>Алеева</persName>
+      <person xml:id="person_шарыпова">
+        <persName>Шарыпова</persName>
       </person>
       <person xml:id="person_щепетильникова">
         <persName>Щепетильникова</persName>
@@ -1513,14 +1510,17 @@
       <person xml:id="person_лучникову">
         <persName>Лучникову</persName>
       </person>
-      <person xml:id="person_добрашеве">
-        <persName>Добрашеве</persName>
+      <person xml:id="person_алеева">
+        <persName>Алеева</persName>
+      </person>
+      <person xml:id="person_полигузове">
+        <persName>Полигузове</persName>
       </person>
       <person xml:id="person_башурова">
         <persName>Башурова</persName>
       </person>
-      <person xml:id="person_полигузове">
-        <persName>Полигузове</persName>
+      <person xml:id="person_добрашеве">
+        <persName>Добрашеве</persName>
       </person>
       <person xml:id="person_григорий_патюков">
         <persName>Григорий Патюков</persName>
@@ -1543,14 +1543,14 @@
       <person xml:id="person_петрова">
         <persName>Петрова</persName>
       </person>
-      <person xml:id="person_туговикова">
-        <persName>Туговикова</persName>
+      <person xml:id="person_старикова">
+        <persName>Старикова</persName>
       </person>
       <person xml:id="person_старцова">
         <persName>Старцова</persName>
       </person>
-      <person xml:id="person_старикова">
-        <persName>Старикова</persName>
+      <person xml:id="person_туговикова">
+        <persName>Туговикова</persName>
       </person>
       <person xml:id="person_веселова">
         <persName>Веселова</persName>
@@ -1564,32 +1564,32 @@
       <person xml:id="person_александра_скорнякова">
         <persName>Александра Скорнякова</persName>
       </person>
-      <person xml:id="person_сыренщикова">
-        <persName>Сыренщикова</persName>
-      </person>
-      <person xml:id="person_евсеева">
-        <persName>Евсеева</persName>
+      <person xml:id="person_бунова">
+        <persName>Бунова</persName>
       </person>
       <person xml:id="person_григорьева">
         <persName>Григорьева</persName>
       </person>
-      <person xml:id="person_щепетунина">
-        <persName>Щепетунина</persName>
-      </person>
       <person xml:id="person_попова">
         <persName>Попова</persName>
       </person>
+      <person xml:id="person_евсеева">
+        <persName>Евсеева</persName>
+      </person>
+      <person xml:id="person_щепетунина">
+        <persName>Щепетунина</persName>
+      </person>
       <person xml:id="person_кобалина">
         <persName>Кобалина</persName>
+      </person>
+      <person xml:id="person_сыренщикова">
+        <persName>Сыренщикова</persName>
       </person>
       <person xml:id="person_коростилева">
         <persName>Коростилева</persName>
       </person>
       <person xml:id="person_кочнева">
         <persName>Кочнева</persName>
-      </person>
-      <person xml:id="person_бунова">
-        <persName>Бунова</persName>
       </person>
       <person xml:id="person_авдотья_кошкарова">
         <persName>Авдотья Кошкарова</persName>
@@ -1606,11 +1606,11 @@
       <person xml:id="person_бранштейна">
         <persName>Бранштейна</persName>
       </person>
-      <person xml:id="person_ермолаева">
-        <persName>Ермолаева</persName>
-      </person>
       <person xml:id="person_никулина">
         <persName>Никулина</persName>
+      </person>
+      <person xml:id="person_ермолаева">
+        <persName>Ермолаева</persName>
       </person>
       <person xml:id="person_машукова">
         <persName>Машукова</persName>
@@ -1627,11 +1627,11 @@
       <person xml:id="person_скорнякова">
         <persName>Скорнякова</persName>
       </person>
-      <person xml:id="person_евдокимова">
-        <persName>Евдокимова</persName>
-      </person>
       <person xml:id="person_кузнецова">
         <persName>Кузнецова</persName>
+      </person>
+      <person xml:id="person_евдокимова">
+        <persName>Евдокимова</persName>
       </person>
     </listPerson>
     <listPlace>
