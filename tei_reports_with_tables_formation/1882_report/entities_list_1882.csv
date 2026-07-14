@@ -1,0 +1,159 @@
+﻿Тег;Текст сущности;REF (ID);Частота;Type (заполнить);Subtype (заполнить)
+orgName;Приказа общественного призрения;#org_prikaz_public_welfare;2;Организации;Общ. орг-ии
+orgName;Главное Тюремное Управление;#org_главное_тюремное_управление;1;Организации;Тюрьмы
+orgName;Министерства внутренних дел;#org_ministry_internal;1;Организации;Гос. Органы
+orgName;для которых больница;#org_для_которых_больница;1;Организации;Медицина
+orgName;Приказ общественного призрения;;1;Организации;Общ. орг-ии
+orgName;Министерство внутренних дел;;1;Организации;Гос. Органы
+orgName;Главное Тюремное Управление;;1;Организации;Тюрьмы
+orgName;Красноярское городское полицейское управление;;1;Организации;Гос. Органы
+orgName;для которых больница;;1;Организации;Медицина
+orgName;Мужская классическая гимназия;;1;Организации;Образование
+orgName;Женская гимназия;;1;Организации;Образование
+persName;Петров;#person_петров;6;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Ивановский;#person_ивановский;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Петровская;#person_петровская;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;И. С. Щеголева;#person_щеголева;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Васильева;#person_васильева;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Петров;;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Ивановский;;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Петровская;;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Щеголева;;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+persName;Васильева;;1;Люди;Служащие (Чиновничество / Канцелярские служители)
+placeName;Енисей;#place_enisey_river;14;Места;Насел. пункты
+placeName;Енисейской губернии;#place_enisei_province;13;Места;Адм. единицы
+placeName;Ачинске;#place_achinsk;12;Места;Насел. пункты
+placeName;Минусинске;#place_minusinsk;12;Места;Насел. пункты
+placeName;Канске;#place_kansk;12;Места;Насел. пункты
+placeName;Енисейске;#place_enisei_okrug;12;Места;Насел. пункты
+placeName;Минусинском округе;#place_minusinsk_okrug;11;Места;Адм. единицы
+placeName;Красноярске;#place_krasnoyarsk;11;Места;Насел. пункты
+placeName;Восточной Сибири;#place_eastern_siberia;9;Места;Насел. пункты
+placeName;Минусинском;#place_minusinsk;9;Места;Насел. пункты
+placeName;Туруханском;#place_turukhansk;8;Места;Насел. пункты
+placeName;Ачинском;#place_achinsk;8;Места;Насел. пункты
+placeName;Ачинскому;#place_achinsk;8;Места;Насел. пункты
+placeName;Канскому;#place_kansk;8;Места;Насел. пункты
+placeName;Красноярскому;#place_krasnoyarsk;8;Места;Насел. пункты
+placeName;Енисейском;#place_enisei_okrug;8;Места;Насел. пункты
+placeName;Канском;#place_kansk;8;Места;Насел. пункты
+placeName;Красноярского округа;#place_krasnoyarsk_okrug;8;Места;Адм. единицы
+placeName;р. Енисей;#place_enisey_river;7;Места;Насел. пункты
+placeName;Минусинскому;#place_minusinsk;7;Места;Насел. пункты
+placeName;Енисейскому;#place_enisei_okrug;7;Места;Насел. пункты
+placeName;Красноярской;#place_krasnoyarsk;7;Места;Насел. пункты
+placeName;г. Красноярске;#place_krasnoyarsk;7;Места;Насел. пункты
+placeName;Енисейского;#place_enisei_okrug;6;Места;Насел. пункты
+placeName;Енисейская губерния;#place_enisei_province;6;Места;Адм. единицы
+placeName;Красноярском;#place_krasnoyarsk;6;Места;Насел. пункты
+placeName;Енисейском округе;#place_enisei_okrug;6;Места;Адм. единицы
+placeName;Минусинского;#place_minusinsk;5;Места;Насел. пункты
+placeName;Канского;#place_kansk;5;Места;Насел. пункты
+placeName;Енисейского округа;#place_enisei_okrug;5;Места;Адм. единицы
+placeName;Минусинского округа;#place_minusinsk_okrug;5;Места;Адм. единицы
+placeName;г. Красноярска;#place_krasnoyarsk;5;Места;Насел. пункты
+placeName;Ачинского округа;#place_achinsk_okrug;5;Места;Адм. единицы
+placeName;Енисейский;#place_enisei_okrug;4;Места;Насел. пункты
+placeName;Ачинского;#place_achinsk;4;Места;Насел. пункты
+placeName;Канском округе;#place_kansk_okrug;4;Места;Адм. единицы
+placeName;Минусинский;#place_minusinsk;4;Места;Насел. пункты
+placeName;Ачинска;#place_achinsk;4;Места;Насел. пункты
+placeName;Минусинска;#place_minusinsk;4;Места;Насел. пункты
+placeName;Енисейской;#place_enisei_okrug;4;Места;Насел. пункты
+placeName;Канской;#place_kansk;4;Места;Насел. пункты
+placeName;Забайкальской;#place_забайкальской;3;Места;Насел. пункты
+placeName;Ачинский;#place_achinsk;3;Места;Насел. пункты
+placeName;Красноярском округе;#place_krasnoyarsk_okrug;3;Места;Адм. единицы
+placeName;Ачинском округе;#place_achinsk_okrug;3;Места;Адм. единицы
+placeName;Ачинской;#place_achinsk;3;Места;Насел. пункты
+placeName;Минусинской;#place_minusinsk;3;Места;Насел. пункты
+placeName;Красноярску;#place_krasnoyarsk;3;Места;Насел. пункты
+placeName;Енисейску;#place_enisei_okrug;3;Места;Насел. пункты
+placeName;Канску;#place_kansk;3;Места;Насел. пункты
+placeName;Ачинску;#place_achinsk;3;Места;Насел. пункты
+placeName;Тобольской;#place_тобольской;2;Места;Насел. пункты
+placeName;Томской губернии;#place_tomsk_province;2;Места;Адм. единицы
+placeName;Чулым;#place_chulym_river;2;Места;Насел. пункты
+placeName;Канский;#place_kansk;2;Места;Насел. пункты
+placeName;Туруханского края;#place_turukhansk_region;2;Места;Насел. пункты
+placeName;Красноярский;#place_krasnoyarsk;2;Места;Насел. пункты
+placeName;Канска;#place_kansk;2;Места;Насел. пункты
+placeName;Красноярского;#place_krasnoyarsk;2;Места;Насел. пункты
+placeName;Канского округа;#place_kansk_okrug;2;Места;Адм. единицы
+placeName;Красноярск;#place_krasnoyarsk;2;Места;Насел. пункты
+placeName;Минусинск;#place_minusinsk;2;Места;Насел. пункты
+placeName;Енисейск;#place_enisei_okrug;2;Места;Насел. пункты
+placeName;Канск;#place_kansk;2;Места;Насел. пункты
+placeName;Ачинск;#place_achinsk;2;Места;Насел. пункты
+placeName;Туруханска;#place_turukhansk;2;Места;Насел. пункты
+placeName;г. Енисейске;#place_eniseysk;2;Места;Насел. пункты
+placeName;Красноярское;#place_krasnoyarsk;2;Места;Насел. пункты
+placeName;Минусинску;#place_minusinsk;2;Места;Насел. пункты
+placeName;Иркутскому;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;г. Красноярск;#place_krasnoyarsk;1;Места;Насел. пункты
+placeName;Иркутскою;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;Якутской;#place_якутской;1;Места;Насел. пункты
+placeName;Иркутской губернии;#place_irkutsk_province;1;Места;Адм. единицы
+placeName;Березовским;#place_березовским;1;Места;Насел. пункты
+placeName;Нижнеудинского;#place_нижнеудинского;1;Места;Насел. пункты
+placeName;Киренского;#place_киренского;1;Места;Насел. пункты
+placeName;Красноярский округ;#place_krasnoyarsk_okrug;1;Места;Адм. единицы
+placeName;Туруханский край;#place_turukhansk_region;1;Места;Адм. единицы
+placeName;Енисейскую губернию;#place_enisei_province;1;Места;Адм. единицы
+placeName;Туруханскому краю;#place_turukhansk_region;1;Места;Насел. пункты
+placeName;Тубу;#place_tuba_river;1;Места;Насел. пункты
+placeName;Енисейский округ;#place_enisei_okrug;1;Места;Адм. единицы
+placeName;Минусинским округом;#place_minusinsk_okrug;1;Места;Адм. единицы
+placeName;Абаканская;#place_абаканская;1;Места;Насел. пункты
+placeName;г. Енисейска;#place_eniseysk;1;Места;Насел. пункты
+placeName;Тесинской;#place_tesinskaya_volost;1;Места;Насел. пункты
+placeName;Балахтинской;#place_балахтинской;1;Места;Насел. пункты
+placeName;Томска;#place_tomsk_province;1;Места;Насел. пункты
+placeName;Иркутска;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;Енисейска;#place_enisei_okrug;1;Места;Насел. пункты
+placeName;Каменский;#place_kamensky_plant;1;Места;Насел. пункты
+placeName;Иркутской;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;Туруханске;#place_turukhansk;1;Места;Насел. пункты
+placeName;Вознесенской;#place_вознесенской;1;Места;Насел. пункты
+placeName;г. Енисейск;#place_eniseysk;1;Места;Насел. пункты
+placeName;Кеть;#place_ket_river;1;Места;Насел. пункты
+placeName;Енисейскую;#place_enisei_okrug;1;Места;Насел. пункты
+placeName;Ачинский округ;#place_achinsk_okrug;1;Места;Адм. единицы
+placeName;р. Чулым;#place_chulym_river;1;Места;Насел. пункты
+placeName;Иркутский;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;Иркутское;#place_irkutsk_province;1;Места;Насел. пункты
+placeName;Енисейским;#place_enisei_okrug;1;Места;Насел. пункты
+placeName;Туруханского;#place_turukhansk;1;Места;Насел. пункты
+placeName;Александровский;#place_александровский;1;Места;Насел. пункты
+placeName;Красноярск;;1;Места;Насел. пункты
+placeName;Енисейск;;1;Места;Насел. пункты
+placeName;Канск;;1;Места;Насел. пункты
+placeName;Ачинск;;1;Места;Насел. пункты
+placeName;Минусинск;;1;Места;Насел. пункты
+placeName;Туруханск;;1;Места;Насел. пункты
+placeName;Енисейская губерния;;1;Места;Адм. единицы
+placeName;Томская губерния;;1;Места;Адм. единицы
+placeName;Иркутская губерния;;1;Места;Адм. единицы
+placeName;Восточная Сибирь;;1;Места;Насел. пункты
+placeName;Туруханский край;;1;Места;Адм. единицы
+placeName;Енисейский округ;;1;Места;Адм. единицы
+placeName;Красноярский округ;;1;Места;Адм. единицы
+placeName;Канский округ;;1;Места;Адм. единицы
+placeName;Ачинский округ;;1;Места;Адм. единицы
+placeName;Минусинский округ;;1;Места;Адм. единицы
+placeName;Енисей;;1;Места;Насел. пункты
+placeName;Туба;;1;Места;Насел. пункты
+placeName;Чулым;;1;Места;Насел. пункты
+placeName;Кеть;;1;Места;Насел. пункты
+placeName;Каменский завод;;1;Места;Насел. пункты
+placeName;Тесинская волость;;1;Места;Адм. единицы
+placeName;Забайкальской;;1;Места;Насел. пункты
+placeName;Тобольской;;1;Места;Насел. пункты
+placeName;Якутской;;1;Места;Насел. пункты
+placeName;Березовским;;1;Места;Насел. пункты
+placeName;Нижнеудинского;;1;Места;Насел. пункты
+placeName;Киренского;;1;Места;Насел. пункты
+placeName;Абаканская;;1;Места;Насел. пункты
+placeName;Балахтинской;;1;Места;Насел. пункты
+placeName;Вознесенской;;1;Места;Насел. пункты
+placeName;Александровский;;1;Места;Насел. пункты
